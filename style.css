@@ -1,0 +1,30 @@
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+button{
+    width: 80px;
+    padding: 10px;
+    margin-top: 20px;
+    background: rgb(1, 195, 1);
+    font-size: 0.9rem;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+
+}
+img{
+    width: 250px;
+}
+.des{
+    background: red;
+    color: white;
+    font-size: 0.9rem;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
