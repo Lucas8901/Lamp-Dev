@@ -5,7 +5,7 @@
 <br>
 
 
-<p>😋 Aqui uma demonstraçao do projeto /p>
+<p>😋 Aqui uma demonstraçao do projeto </p>
 
 <br>
 
